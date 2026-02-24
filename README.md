@@ -13,4 +13,5 @@ This project generates a dekadal (10-day) summary of weather data for a given lo
 ## Prerequisites
 * Accessible wealth data 
 *   Node.js
-*   Javascript 
+*   Javascript
+*   Docker
