@@ -10,6 +10,5 @@ DEKADAL-Summary.
 ## Description
 
 ## Prerequisites
-List any software or tools required to run the application.
-*   [Node.js](https://nodejs.org) (mention a specific version if necessary, e.g., v14+)
+*   [Node.js](https://nodejs.org
 *   [npm](# Dekadal-summary
