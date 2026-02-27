@@ -15,3 +15,15 @@ This project generates a dekadal (10-day) summary of weather data for a given lo
 *   Node.js
 *   Javascript
 *   Docker
+
+## CSV File created
+* Chitedze January 2026 weather data
+*   Year - integer
+*   Month - string
+*   MaxTemp - decimal
+*   MinTemp - decimal
+*   Wind - integer
+*   RH - integer
+*   Sun - decimal
+*   Rain - decimal/string
+*   Evap - decimal
